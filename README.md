@@ -9,4 +9,5 @@ github对上传的文件大小有限制，所以书籍以网盘的形式分享�
 百度网盘链接：[https://pan.baidu.com/s/1URJ0PHtk1otNHnUSz8GnUQ?pwd=jqr1](https://pan.baidu.com/s/1URJ0PHtk1otNHnUSz8GnUQ?pwd=jqr1)  
 提取码：jqr1 
 
-<h4>视频</h4>
+<h4>2.视频</h4>
+[吴恩达机器学习](https://www.bilibili.com/video/BV1Pa411X76s/?spm_id_from=333.337.search-card.all.click&vd_source=555bad300588d79d0c2303a928081ee1)
