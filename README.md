@@ -19,3 +19,7 @@ github对上传的文件大小有限制，所以书籍以网盘的形式分享�
 <a href = "https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497">
 李沐 动手学深度学习
 </a></br></br>
+
+<a href = "https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.999.top_right_bar_window_custom_collection.content.click&vd_source=555bad300588d79d0c2303a928081ee1">
+pytorch教程
+</a></br></br>
