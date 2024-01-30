@@ -10,4 +10,4 @@ github对上传的文件大小有限制，所以书籍以网盘的形式分享�
 提取码：jqr1 
 
 <h4>2.视频</h4>
-这是一个链接 [Markdown语法](https://markdown.com.cn)。
+[Markdown链接语法](https://markdown.com.cn/basic-syntax/>links.html "标题")`
